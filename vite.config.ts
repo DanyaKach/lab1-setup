@@ -8,5 +8,5 @@ export default defineConfig({
   // Базовий шлях:
   // - На GitHub Pages = /lab-1-setup/ (назва твого репозиторію)
   // - На Vercel = / (корінь)
-  base: process.env.VERCEL === '1' ? '/' : '/lab-1-setup/',
+  base: process.env.VERCEL === '1' ? '/' : '/lab1-setup/',
 })
